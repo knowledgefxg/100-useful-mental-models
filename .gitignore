@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+.backup-before-ssg/
+exports/
+preview/
+content/illustration-generation-log.json
+__pycache__/
+*.pyc
+.DS_Store

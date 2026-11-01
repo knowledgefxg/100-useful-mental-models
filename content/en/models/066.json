@@ -1,0 +1,19 @@
+{
+  "lead": "Some results loop back and drive their own causes, so things snowball or gradually settle down.",
+  "when": "When habits keep relapsing, work keeps piling up, a relationship gets tenser with every argument, or some progress starts building on itself, it's a great fit.",
+  "body": "The later you go to bed, the sleepier you are during the day. You procrastinate your way to evening, tasks pile up, and at night you're even more reluctant to sleep. It isn't a straight line; it has looped into a circle. A feedback loop is this kind of process where \"the result comes back and affects the next round.\" Seeing the whole loop makes it easier to find a way in than just blaming one link.\n\nA feedback loop is a process in which a system's output returns through a chain of cause and effect to influence its input; reinforcing loops amplify change, while balancing loops tend to counteract deviation.\n\nSome loops amplify change, like getting better at practice and so wanting to practice more. Others pull deviations back, like an air conditioner easing off once it reaches the set temperature. When people say positive feedback and negative feedback, they mean amplifying versus counteracting change, not simply good versus bad. A loop that makes a problem snowball is also amplifying change.\n\nAn ordinary process only shows what happens in what order. A feedback loop adds a line that comes back: how does this result change the next action? Coming back around, it might push the change further and further, or correct the deviation. A loop doesn't automatically mean progress.",
+  "example": "You don't understand part of your job, so you're afraid to ask. The less you ask, the slower you are; the slower you are, the more you worry people will notice, and so you're even less willing to ask. Just telling yourself \"don't be anxious\" may not break the chain.\n\nInstead, change one small link first: set aside a time each day to ask two specific questions, or ask someone to do the first pass with you. Understand a bit more and you finish a bit faster; once your progress improves, asking questions isn't so scary. You don't have to wait for every problem to disappear. Just find an entry point that can start a positive change.",
+  "extra": "Customer support replies slowly, so users keep sending follow-ups, which creates more tickets and even slower replies. Showing clear progress updates and cutting down duplicate submissions may break the cycle better than simply pushing the support team to hurry.",
+  "steps": [
+    "Draw the problem as three or four connected arrows and see whether it loops back to the start.",
+    "Find a link you can control with a small change, not necessarily the most visible consequence.",
+    "Give the change some time, then watch whether the whole loop starts to weaken or change direction."
+  ],
+  "caution": "The arrows you draw are only your understanding and still need to be checked against the facts. Changes may be delayed, and ramping up your intervention too soon can leave you lurching back and forth. Also, don't overlook new influences from outside the system.",
+  "exercise": "Draw a recurring frustration as a loop, and next to each arrow write \"how does this affect the next step?\" Circle one spot where you could make a small change this week.",
+  "brief": "A closed loop of drawing, observing the deviation, adjusting, and coming back to the next round of drawing.",
+  "diagramCaption": "On the left, two links reinforce each other's change; on the right, the returning effect counteracts deviation. Positive and negative feedback don't mean good and bad.",
+  "sources": [
+    "Wikipedia · Feedback Loop"
+  ]
+}

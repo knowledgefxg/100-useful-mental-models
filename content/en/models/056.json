@@ -1,0 +1,19 @@
+{
+  "lead": "Don't spread your effort evenly; first find the few things that change the outcome most.",
+  "when": "When you have a lot going on but little visible progress, or you don't know which problems to fix first, this is worth using.",
+  "body": "Sometimes only two or three out of ten tasks really move things forward, and a pile of recurring small glitches may come mostly from a few causes. The 80/20 rule is a reminder that contributions are often uneven, so it's worth finding the part that carries the most weight first. \"80\" and \"20\" are a common shorthand, not an exact ratio every situation has to fit.\n\nThe Pareto principle summarizes the uneven distribution of inputs and outcomes: a small share of causes or activities may contribute a large share of results, with 80:20 being a common approximation rather than a fixed law.\n\nIt's not about teaching you to slack off, either. It helps you put limited energy where it's most useful. If you spend every day polishing a document's formatting but never get around to understanding your readers' questions, you may be very diligent and still miss the thing that would improve the content most.\n\nIf you line up each item's contribution from largest to smallest and add them up as you go, it becomes easier to see whether results are concentrated in a few factors. What you're looking for is real evidence of an uneven distribution, not an assumption that the top two items must account for 80 percent.",
+  "example": "You want to improve your spoken English. Every day you save ten articles about learning methods and try out different apps, but you rarely actually speak. Looking back after two weeks, you notice that the most helpful moments were a ten-minute chat with a friend in English and carefully fixing two expressions you kept getting wrong.\n\nSo you set aside most of your time for speaking practice and reviewing mistakes, and leave only a small window for saving resources. It's not that everything else was useless. You just make sure the high-impact part actually happens first, then put any leftover energy into the secondary things.",
+  "extra": "If your household spends a lot of time cleaning every week, most of it might come from a few spots where dust and clutter build up. Changing how you use the entryway storage, the shoe cabinet, and the countertops is more likely to cut down repeated work than wiping every corner a little more.",
+  "steps": [
+    "Look back at recent effort and results, and find which things clearly moved you forward once they were done.",
+    "Put the two or three most important ones that you can actually influence into fixed time slots.",
+    "Check again after a while, so last month's priorities don't stay your priorities forever."
+  ],
+  "caution": "Rare but costly things, like backups and safety checks, shouldn't be ignored just because they make up a small share. And don't turn \"the vital few\" into an excuse to only do the tasks you like and leave all the responsibility to others.",
+  "exercise": "Circle three items on this week's to-do list. If you could only finish those three, would you still make real progress this week? If not, think again about what really matters.",
+  "brief": "A few key tasks contribute most of the results through wide flowing bands, while the remaining tasks contribute less.",
+  "diagramCaption": "A few factors may contribute most of the results; adding them up makes it easier to see whether the contribution is concentrated.",
+  "sources": [
+    "Wikipedia · Pareto Principle"
+  ]
+}

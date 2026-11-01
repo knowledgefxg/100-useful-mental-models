@@ -1,0 +1,19 @@
+{
+  "lead": "Give a task loose time, and sometimes it puts on weight to match.",
+  "when": "When tasks always drag to the last minute, you keep grinding on small details, or all you have is \"do it today\" with no clear boundaries, it's a great fit.",
+  "body": "An ordinary email could be written in ten minutes, but because you've given yourself the whole afternoon, you keep reworking the opening, checking your wording, and waiting to be in a better frame of mind. Parkinson's Law sums this up as: work expands to fill the time available for it. It's an observational reminder, not a natural law that can calculate every work schedule.\n\nParkinson's Law is an organizational observation made by Cyril Northcote Parkinson; its core idea is that work can expand to fill the time scheduled for it.\n\nThe useful move is to give a task a reasonable timebox and first spell out what counts as done. You're not using an alarm to force yourself to work at top speed; you're cutting unnecessary expansion. When time's up, you can decide whether to extend based on quality and remaining risk, rather than using \"it could still be improved\" as a reason never to deliver.\n\nPutting the same task into time containers of different lengths makes it easy to see which work is necessary and which is just detail that swelled with the deadline. But the container can't be so small that the necessary work doesn't fit; a reasonable deadline still has to respect the task itself.",
+  "example": "You need to write an internal note for colleagues, and the only goal is to let everyone know the problem, the proposed solution, and what needs deciding. You planned to \"get it done today,\" but the morning goes to picking a template and the afternoon to adjusting the layout, and the core message still isn't clear.\n\nInstead, give yourself forty minutes to write a one-page draft people can discuss, flag anything you're unsure about, and then spend ten minutes checking it. You'll likely get feedback sooner and learn what actually needs filling in, rather than polishing the unimportant parts alone all day.",
+  "extra": "Spending a whole day sorting your inbox may never feel finished. Setting twenty minutes to handle the emails that need replies, and leaving filing for another time slot, actually lets the truly important actions happen.",
+  "steps": [
+    "Before starting, spell out what done looks like, for example \"one page covering three questions, ready for tomorrow's discussion.\"",
+    "Set a realistic timebox for the first version, and break complex tasks into several chunks.",
+    "When time's up, check what's still missing and add time only for the necessary parts, instead of tweaking endlessly."
+  ],
+  "caution": "Shorter deadlines aren't always better. Creative work, research, and tasks that depend on others genuinely need time and a buffer, and this idea shouldn't be used to push people into unrealistic schedules.",
+  "exercise": "For one small task, set \"how finished it needs to be\" and a twenty-five-minute timebox. When time's up, note what's actually missing, then decide whether to continue, rather than assuming an open-ended extension.",
+  "brief": "A task swelling to fill its time container: two transparent horizontal time frames, one long and one short; the same rubbery task outline expands to fill each frame. In the long frame the stick figure procrastinates and fiddles with details; in the reasonably short frame it focuses and finishes.",
+  "diagramCaption": "The solid part is the necessary work; the dashed part shows details that expand as the time allowed grows.",
+  "sources": [
+    "Wikipedia · Parkinson's Law"
+  ]
+}

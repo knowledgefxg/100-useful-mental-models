@@ -1,0 +1,19 @@
+{
+  "lead": "Start with a version small enough to try that can still answer a real question.",
+  "when": "When you have an idea for a business, course, community, or tool but don't yet know whether people really need it, this is the best way to start testing it.",
+  "body": "When you want to do something big, the easiest place to get stuck is \"once I'm fully ready.\" A minimum viable product, usually shortened to MVP, encourages you to put in a small amount first and see whether the people who'd actually need it are willing to use it. The point isn't to make something shoddy. It's to check, as early as possible, the part you're most likely to have guessed wrong.\n\nIn the Lean Startup method, a minimum viable product is used to start a process of real feedback and learning with relatively little investment, testing key assumptions, rather than simply delivering a product with fewer features.\n\nSay you want to open a shop: sell a small batch first. Want to build a tool? Start by helping a few people do the same task by hand. What you're testing is the need, how people use it, or whether they'll pay, not showing others that \"I've already built lots of features.\" Decide what you want to learn first, then decide how much to build.\n\nAn MVP isn't a straight line that ends once it's built. It's a learning loop: make a version that can test the key idea, let real use bring feedback, then adjust based on it. The most valuable thing the loop teaches you might be that your original idea doesn't hold up.",
+  "example": "You want to build an app for organizing travel plans, and you're already picturing maps, budgets, carpooling, and sharing. Instead of jumping into months of development, find a few people who are about to travel and help them plan their routes using a spreadsheet and chat. Watch which information they keep asking for and which nobody ever looks at.\n\nIf all they need is a shared schedule they can edit together, you've skipped building a pile of features no one would use. If nobody even wants to try the hands-on service, you find out sooner whether you picked the wrong audience, the wrong need, or the wrong pitch. A small version makes mistakes cheap. It doesn't guarantee the idea will succeed.",
+  "extra": "If you want to start a book club, first get four people to read the same short piece and see whether the discussion flows and whether they want to come back. That tells you more than designing a full year of sessions and a fee structure up front.",
+  "steps": [
+    "Write down the one thing you're most worried you've guessed wrong, such as \"does anyone really need this every week?\"",
+    "Design a small version that reaches real users, even if you start with off-the-shelf tools and do the work by hand.",
+    "Agree in advance on what you need to see to keep going and what would mean changing course, so you don't push on just because you can't bear to waste what you've put in."
+  ],
+  "caution": "A small version still has to keep its basic promise. Don't trade safety, privacy, or honesty with users for speed. A half-finished thing that nobody tries and that can't answer any question doesn't become valuable just because you call it an MVP.",
+  "exercise": "Shrink a big plan you've been putting off into \"a version one real person could try this week.\" Write down what you want to learn from that trial.",
+  "brief": "A short testing loop: a stick figure builds a simple cart from a few wooden pieces that can carry weight. A real user pulls the cart to move a small box, and feedback, shown as an eye icon, flows back to the repair tools. Beside it, the outline of a large, complicated, unfinished cart is shown in pale gray for contrast.",
+  "diagramCaption": "Test results may support the next step, or they may point to changing your assumptions. Feedback doesn't only mean success.",
+  "sources": [
+    "The Lean Startup · Methodology"
+  ]
+}

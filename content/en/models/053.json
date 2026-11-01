@@ -1,0 +1,19 @@
+{
+  "lead": "Some things barely respond as you add a little, then suddenly change once they reach a certain point.",
+  "when": "When you're running a community, organizing events, trying to understand how a platform grows, or noticing that plenty of people have joined but things still won't get going, this is worth using.",
+  "body": "Say you start a mutual-help group chat. With only a few members, questions often go unanswered. As more people join and they bring a wider range of skills, replies come faster and more people want to come back. Critical mass and tipping points both remind us that some changes don't happen at a steady pace. Once certain conditions are met, a process may start to sustain itself or speed up noticeably.\n\nCritical mass is the key quantity or density needed for a process to continue or sustain itself; a tipping point usually emphasizes the marked change or acceleration that happens once a system crosses a threshold.\n\nBut don't rush to translate this into \"we're just one hundredth person away.\" What actually matters may be the number of active people, how connected they are, how often they use something, or how reliable it is, not some magic total. You need to see which kind of interaction is actually holding the system up.\n\nThe key isn't just \"more,\" but whether the system has crossed the conditions it needs to keep running. Widely spaced dominoes may not keep falling; they only pass the push along when they're close enough together. In real situations, the threshold also depends on connections, quality, and context. It's not a headcount that works everywhere.",
+  "example": "You want to set up a regular weekend badminton game, but with twenty people in the group chat it still rarely happens, because everyone is free at different times. What finally makes it stick isn't packing the group to fifty. It's finding eight people who are often free at the same time, and fixing a court and sign-up rules.\n\nWhat got filled in was steady enough participation and organization. When each game goes smoothly, people are more willing to sign up early, and organizing gets easier. Scale and feedback changed together, which is what gave the game a chance to last, not an impressive member count.",
+  "extra": "If a neighborhood swap board is always full of outdated posts, more people won't necessarily make it useful. Only when it's updated promptly, covers enough categories, and gets quick replies will people check it often. How densely it's actually used matters more than the sign-up numbers.",
+  "steps": [
+    "Identify the key interaction that keeps things running, such as replies, matches, or participation.",
+    "Look at what's missing: numbers, density, overlapping schedules, or one important role.",
+    "Track things on a small scale to find where the change happens, rather than treating a round number as a guaranteed threshold."
+  ],
+  "caution": "Not every project has a clear tipping point, and piling on numbers doesn't guarantee a breakthrough. Without real value, more people can simply make the problems bigger.",
+  "exercise": "Think of something you feel would \"work if only a few more people joined.\" Write down exactly what those extra people would need to do for it to actually get better.",
+  "brief": "Self-sustaining only past a threshold: on the left, a few scattered dominoes are spaced too far apart to pass on the push; on the right, a dense row of dominoes keeps falling after the first nudge, with the key gap circled in navy.",
+  "diagramCaption": "Once the key condition crosses a threshold, a system may start running on its own or changing faster.",
+  "sources": [
+    "Wikipedia · Critical Mass and Tipping Point"
+  ]
+}

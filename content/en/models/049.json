@@ -1,0 +1,19 @@
+{
+  "lead": "Spell out \"if I do this, what happens next?\" and your choice gets a lot less tangled.",
+  "when": "When you're deciding whether to try something out first, how to set up a backup plan, or when one choice could lead to several different outcomes, this is a great fit.",
+  "body": "Some decisions aren't just about the next step. They lead to more forks down the road. A decision tree draws those forks as branches: what can I choose, what might happen after I choose, and what do I do next in each case? It makes the costs easier to see, and shows you which information is worth looking into first.\n\nA decision tree uses branches to represent available actions, possible events, and their outcomes, adding probability and value estimates where needed, to help analyze the paths a decision can take.\n\nIt's important to tell apart two kinds of branches. Some are yours to choose, like whether to buy a ticket. Others are out of your control, like whether it rains on the day of the event. Separating what you can decide from what you can't helps you plan far more than asking yourself \"but what if it rains?\" over and over.\n\nThe forks in the tree mean two different things. One is an action you can choose. The other is something you still can't decide after you've chosen, like the weather. Only by keeping them apart can you see which step you control and what uncertainty each path still faces.",
+  "example": "You're planning an outdoor get-together this weekend. You could book a lawn right away, or choose a venue that can move indoors. Follow each path further: what happens if it's sunny, what if it rains, how much does canceling cost, and is there enough time to switch locations at the last minute?\n\nIf people are traveling a long way and canceling last minute would be costly, paying a bit more for a place with backup space may be worth it. If it's just a few people nearby meeting on short notice, keeping a cancelable booking may be enough. The same \"weather risk\" leads to different choices because what follows costs different amounts.",
+  "extra": "If you want a pet, don't just draw the branch \"happy after adopting.\" Also draw what you'll do when you travel for work, when the pet gets sick, or when you move. The point isn't to scare yourself off, but to let both your affection and the long-term responsibility into the decision.",
+  "steps": [
+    "Start by drawing the two or three actions you can actually choose right now. You don't need to add every possibility you can imagine.",
+    "For each action, add the most important things that could follow, and write down the costs and any ways to recover.",
+    "Find the unknown that's most likely to change your choice, and put your effort into finding it out first."
+  ],
+  "caution": "Drawing branches doesn't mean you know the probabilities. Be honest about uncertain numbers: compare a few scenarios, and don't make up precise figures that fool you into thinking you've worked it all out.",
+  "exercise": "Pick a choice you're facing soon. Draw two main branches and write two possible outcomes for each. Which one needs a way out planned in advance?",
+  "brief": "A decision tree spreading left to right: on the left, a stick figure faces a square choice node that splits into icons for an outdoor activity and an indoor activity. The outdoor branch then hits a round weather-event node that splits into sun and rain, leading to outcomes under an umbrella and in the sunshine. The indoor branch leads to board games.",
+  "diagramCaption": "A choice splits into different paths, and along those paths you may meet events you can't decide.",
+  "sources": [
+    "Wikipedia · Decision Tree"
+  ]
+}

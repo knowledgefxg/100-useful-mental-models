@@ -1,0 +1,19 @@
+{
+  "lead": "Don't contradict yourself, and first make sure everyone is talking about the same thing.",
+  "when": "When you run into promises, explanations, or rules that don't add up, it helps you ask the right questions.",
+  "body": "Suppose someone says, \"The shop didn't sell a single coffee today,\" and then turns around and says, \"We sold five coffees today.\" Something feels off. Counted over the same time and in the same way, both statements can't be true. That's the law of non-contradiction in its simplest form.\n\nIn classical logic, the law of non-contradiction states that a proposition and its negation cannot both be true at the same time and in the same respect.\n\nIt helps us check whether what we say hangs together, and it can uncover conditions hidden inside an argument. But don't rush to say \"You're contradicting yourself.\" Does \"today\" mean the same day? Could one person be counting only delivery orders as \"sold,\" while the other includes dine-in too? Line up what's being said first, then judge who's right.\n\nThe easiest mix-up is between \"at the same time\" and \"one after the other.\" A door can be closed and then opened later, but it can't be fully open and fully closed at the same moment and in the same sense. Before deciding whether two statements contradict each other, pin down the time and the aspect being discussed.",
+  "example": "A store advertises \"All items can be returned within 7 days, no questions asked.\" After you buy something, customer service tells you, \"This item isn't eligible for no-questions-asked returns.\" If the item, the timing, and the purchase conditions haven't changed, the two statements don't match.\n\nAt that point you can ask them to be specific: is it all items, or all items except certain categories? The issue shifts from blaming each other to a rule that needs clarifying. The point of spotting a contradiction is to get the promise stated clearly so things can move forward.",
+  "extra": "You say \"I'm completely busy this weekend,\" and then a friend finds out you went to a movie. Maybe what you really meant was \"I don't want any more social plans.\" Saying no accurately is usually easier than over-explaining.",
+  "steps": [
+    "Write down the two statements exactly as you heard them, without adding your own interpretation.",
+    "Check the time, the subject, and the wording: are both statements really talking about exactly the same conditions?",
+    "If they still conflict, ask the other person which one should change, or what condition was left out."
+  ],
+  "caution": "\"I love being around people, and I also need time alone\" isn't a contradiction, since the two can happen at different times. \"I used to like it, now I don't\" just means a change of mind. Don't strip out the conditions on purpose just to catch someone out.",
+  "exercise": "Find an absolute promise you often make, like \"Call me anytime.\" Can you really keep it? Rewrite it as a version you're both willing and able to keep.",
+  "brief": "Two conflicting statements about the same door at the same moment: in the center, a fully closed door; on each side, a stick figure shows a thought of the door open or closed, with small crosses beneath marking that the two can't both apply to the center door at once.",
+  "diagramCaption": "A door can't be fully open and fully closed at the same moment; as time moves on, its state can change.",
+  "sources": [
+    "Wikipedia · Law of Noncontradiction"
+  ]
+}

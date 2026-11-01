@@ -1,0 +1,19 @@
+{
+  "lead": "We easily notice only the information that proves \"I was right all along.\"",
+  "when": "When you've already fallen for a plan, strongly dislike someone, or find your search terms all say \"why it's great\" or \"why it's terrible,\" it's worth using.",
+  "body": "You've decided a brand is bad, so a negative review feels like proof, while a positive one must be an ad. You've decided someone is reliable, so even when they stand you up, you find a pile of excuses for them. This is confirmation bias: we don't just pick our information, we also judge the same information by different standards, so our original view can keep standing.\n\nConfirmation bias is the tendency to seek out, interpret, favor, or remember information that supports existing beliefs, while holding inconsistent information to a different standard.\n\nIt doesn't mean you're deliberately being unreasonable. The brain likes what's familiar and consistent, and changing your mind can feel embarrassing. So the point of practice isn't to force yourself to argue against yourself. It's to leave room in advance for \"I might be wrong,\" and to take counterexamples a little more seriously.\n\nIf you picture the filtering process, you can ask one more question: which information did I keep, and which did I set aside? If supporting material passes easily while contrary material has to meet an unusually high bar, the filter itself needs checking.",
+  "example": "You want to open a coffee shop and you're already excited about it. When you ask friends, you say, \"Doesn't this area really need a cozy little cafe?\" They nod politely, and you feel even surer it's a big opportunity. But you never asked where they usually buy coffee, how much they spend, or how often they'd come, and you never looked into why the shops that closed didn't make it.\n\nIf you ask about real spending habits and research costs and foot traffic instead, the answers may be less exciting, but they'll protect your investment better. The goal of research isn't to collect agreement. It's to help you avoid pitfalls.",
+  "extra": "You think you're \"always unlucky,\" so you vividly remember the slowest checkout line and the rain when you went out, but rarely note the days you caught your bus just in time. Keeping a steady record might show you a fuller, less one-sided picture of your life.",
+  "steps": [
+    "Before researching, write down your current view and where you're most worried you might be wrong.",
+    "Actively look for one serious counterexample, or ask someone who knows the situation to point out the problems honestly.",
+    "Hold supporting and opposing evidence to the same standard. Don't swallow one side easily while picking the other apart."
+  ],
+  "caution": "Grabbing any random objection doesn't make you objective. Counterexamples need to be relevant and reliable too. In the end, you can still stick with your original choice, as long as you've genuinely checked it.",
+  "exercise": "For a view you're very sure about, finish the sentence: \"If I saw ..., I'd be willing to change my mind.\" If you can't think of anything, ask yourself whether you've already shut the door on new information.",
+  "brief": "A selective filtering funnel: a stick figure holding a circle-shaped opinion icon faces two kinds of evidence, circles and triangles. It puts only the circles in its basket and pushes the triangles aside. A thin arrow and a magnifying glass bring the excluded triangles back for review.",
+  "diagramCaption": "Preferred information tends to be kept and inconsistent information tends to slip away, so the filtering itself is worth checking.",
+  "sources": [
+    "Wikipedia · Confirmation bias"
+  ]
+}

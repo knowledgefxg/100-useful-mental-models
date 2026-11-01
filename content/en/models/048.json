@@ -1,0 +1,19 @@
+{
+  "lead": "Some people or things belong to two groups at once, and the overlap deserves its own look.",
+  "when": "When you're sorting groups of people, explaining rules, looking for shared needs, or discussing \"who meets all the conditions,\" this is very handy.",
+  "body": "You have friends who can cook and friends who are free on weekends, and the two groups aren't exactly the same. Draw each group as a circle, and the overlap is \"people who can cook and are also free on weekends.\" A diagram that uses circles to show what things share and how they differ is called a Venn diagram.\n\nA Venn diagram is a way of picturing relationships between sets. It uses regions and their overlaps to show relationships such as intersection, union, and complement, helping you see which conditions members satisfy at the same time.\n\nIt's especially good for making clear the difference between \"meets both\" and \"meets either one.\" It sounds like just a few words, but in practice the plans that result can be very different. Draw the combination you're really looking for first. It's less error-prone than everyone forming their own idea of \"either is fine\" or \"both are needed.\"\n\nThe overlap means \"meets both at once.\" It isn't simply the two sides' numbers added together. If the two circles are people who like reading and people who like podcasts, the middle is the people who like both, and the rest of each circle holds what's unique to that group.",
+  "example": "You want to host a board game night. Some friends love board games, some are free on Saturday, and some live fairly close. Looking at the three conditions separately, you can see that not everyone who loves playing can come this time, and living nearby isn't the only thing that qualifies someone to join.\n\nFirst be clear about the truly necessary conditions, like \"wants to come and is free that day,\" then treat distance as something to consider when sorting out transportation. The diagram helps you check whether conditions are getting mixed up, and keeps you from leaving out the right people because of an irrelevant criterion.",
+  "extra": "The things you love, the things you're good at, and the things people need might overlap somewhere. This diagram can help you ask the question, but whether that overlap really exists, and whether it can support a living over the long run, still takes trying things and finding out.",
+  "steps": [
+    "Write down clearly what each circle stands for, so people can tell whether something fits.",
+    "Mark whether you're looking for the intersection (\"and\") or the union (\"or\").",
+    "Try a few real or made-up examples to see if anything has been left out or put in the wrong place."
+  ],
+  "caution": "When you sketch circles freehand, their sizes don't mean anything about how many people are in them. When the overlaps between several groups get too complicated, a table may be clearer. There's no need to make things hard to read just to draw a diagram.",
+  "exercise": "Draw two circles: \"things I want to do\" and \"things I have time to do this week.\" In the overlap, put one action you're going to actually start.",
+  "brief": "Three semi-transparent, hollow, overlapping circles: each holds a small icon of a book, headphones, or a person, and the overlapping areas hold combined icons for meeting two or all three conditions. A stick figure uses a pointer to examine the shared central area.",
+  "diagramCaption": "The three positions show, in order: meeting only the first condition, meeting both, and meeting only the second condition.",
+  "sources": [
+    "Wikipedia · Venn Diagram"
+  ]
+}

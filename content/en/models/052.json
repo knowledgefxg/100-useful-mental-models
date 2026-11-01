@@ -1,0 +1,19 @@
+{
+  "lead": "When more people want something and less of it is available, the price usually starts to move.",
+  "when": "When you're looking at changes in rent, ticket prices, holiday goods, or lines for a service, use this to pull the causes apart.",
+  "body": "Supply is how much sellers are willing to offer. Demand is how much buyers are willing and able to buy. Both depend on price, and both are shaped by other factors too. If everyone loves something but nobody will actually pay that price for it, that isn't the same as strong real demand.\n\nIn economics, demand and supply describe the quantities that buyers and sellers, respectively, are willing and able to buy or offer at different prices over a given period, with other conditions held constant.\n\nTwo things are easy to mix up. In one, you buy less because the price went up. In the other, something in your life changed, so you want more even at the same price. The first is the price itself shaping your choice; the second is your need to buy changing. Telling them apart makes it much easier to understand why something suddenly becomes hard to find or more expensive.\n\nWhen you read a supply-and-demand chart, separate moving along the same curve from the whole curve shifting. A change in price corresponds to a different point on the curve. A change in conditions like costs or preferences may mean you have to redraw the curve. Not every change can be explained as the same kind of thing.",
+  "example": "When it starts raining, suddenly lots of people outside the subway station want an umbrella, but the little shop nearby only has so many in stock. They may sell out fast, or the price may go up. Once the sun comes out, that last-minute demand fades, and the same umbrella may not have many eager buyers.\n\nThis doesn't mean any price hike by a seller is fair. Real transactions also involve rules, promises, and questions of fairness. The supply-and-demand lens just helps you see who might be changing their behavior behind a price change, and how quickly stock can catch up.",
+  "extra": "If new office buildings go up near your neighborhood, demand for lunch might rise. But if ten new restaurants open at the same time, competition changes too. Noticing \"more people\" is where the analysis starts, not a guarantee that opening a shop will make money.",
+  "steps": [
+    "Ask separately: what has changed for the buyers, and what has changed for the sellers?",
+    "Think about whether there are substitutes, and how long it takes to restock or expand production.",
+    "Don't read every cause off a single price; keep an eye on costs, seasons, rules, and competition."
+  ],
+  "caution": "Supply and demand is very useful, but it can't explain every price. Market power, information gaps, and institutions all shape transactions. And high demand doesn't automatically mean something is worth starting a business in or investing in.",
+  "exercise": "Pick something that got more expensive recently. Write down two possible changes in demand and two possible changes in supply. Which ones do you have facts for, and which are just guesses?",
+  "brief": "Crossing supply and demand curves with both sides of the market: on unlabeled axes in the center, a navy downward curve crosses a brick-red upward curve; on the left, a vendor with boxes of goods; on the right, a customer with coins; dots and a price tag are linked by plain lines.",
+  "diagramCaption": "The solid and dashed lines show supply before and after conditions change. A shift of the whole curve is different from moving to a new point along the same curve.",
+  "sources": [
+    "Wikipedia · Supply and Demand"
+  ]
+}

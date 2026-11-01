@@ -1,0 +1,19 @@
+{
+  "lead": "Feeling like you know it right after reading doesn't mean you can recall it on your own a few days later.",
+  "when": "When you're memorizing vocabulary, preparing for an exam, reading a technical book, or saving lots of material you never seem to remember, this is very useful.",
+  "body": "You look over a page of notes and everything seems familiar, but when you close the book you can barely recall a couple of key points. That's not strange: feeling familiar with something and being able to pull it out of memory yourself are not the same thing. The forgetting curve reminds us that memories fade over time, and if you want to use something in the long run, you need to retrieve it again later.\n\nThe forgetting curve describes how memory retention changes over time. It often shows a fairly quick drop after learning followed by a leveling off, but its exact shape depends on factors such as the material, how it was learned, and retrieval practice.\n\nThe most practical approach isn't just rereading, but actively recalling after some time has passed: explain it without looking at the material, work a problem, or apply it to a new example. Making a bit of effort to remember often tells you more about what you truly know and what's still shaky than gliding through the page again.\n\nWhen reading a forgetting curve, first check what kind of material it describes, how it was learned, and how it was tested. The boost after review doesn't mean it will never drop again. The trend on the chart is there to help you schedule recall practice, not to predict exactly how much each person will forget on which day.",
+  "example": "You read your lecture notes three times for an exam and feel like you know nearly all of it, yet you keep getting stuck on practice questions. Try a different routine: after each short section, close the material and write down the core points. The next day, try answering questions first and only look back at what you missed. A few days later, check again.\n\nAt first this may make you think, \"How did I forget so much?\" But really it's exposing the gaps earlier. You no longer wait until the exam to discover that you can only recognize sentences and can't answer on your own. You can also adjust your review based on what you actually forget, instead of rereading everything equally.",
+  "extra": "When you've just learned a new dish, cooking it a few days later without watching the video, then filling in whichever step you forgot, usually turns it into your own skill better than rewatching the same video every day.",
+  "steps": [
+    "After studying, close the material and explain or write out the main points in your own words.",
+    "Try again after a gap; review more of what you can't recall, and space out what you've already mastered.",
+    "Find your own example for each concept so the memory connects to real use."
+  ],
+  "caution": "Don't treat some fixed online schedule of days and forgetting percentages as a universal manual for humans. Difficulty of the material, your background, and practice all affect memory, and the right rhythm for you has to come from actually checking.",
+  "exercise": "Close this page now and try to say the one question the forgetting curve most reminds you to ask, plus how you'll review something you're currently learning tomorrow.",
+  "brief": "Memory fading over time and review: a navy curve drops quickly and then levels off; beside it, another curve rises and falls again at a few unnumbered time points where a small stick figure doing recall practice pulls out puzzle pieces.",
+  "diagramCaption": "The top row shows a memory gradually fading; the bottom row adds recall practice partway through, after which retention may turn out differently.",
+  "sources": [
+    "Wikipedia · Forgetting Curve"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lead": "When we think of a kind of thing, we usually picture a \"typical\" example first.",
+  "when": "When you're introducing something, teaching a new tool, or sorting things into categories, or when you're tempted to rule someone out because they \"don't look the part,\" this model helps.",
+  "body": "When someone says \"bird,\" you might picture a sparrow. When someone says \"chair,\" you might picture a wooden one with four legs and a back. Those first images are the typical examples in your head. Prototype theory says we often understand categories through this sense of \"how much does it look like one,\" rather than always starting from a strict definition.\n\nIn cognitive science, prototype theory holds that members of a category can differ in how typical they are, and that people often understand a category by organizing it around typical instances and their features.\n\nThat's why a penguin might make you hesitate for a second, even though it's just as much a bird. It isn't less qualified; it just doesn't look like the version you know best. Knowing this helps you understand why someone can't make sense of a design, and reminds you not to be boxed in by familiar shapes.\n\nThe \"center and edges\" here are about how typical something is, not a simple test of who's in and who's out. A penguin isn't as typical as the small flying birds we usually picture, but it's still a bird. A bat can fly, but that doesn't make it a bird. Being far from the prototype isn't a reason to exclude something from the category.",
+  "example": "You set up a new budgeting app for an older relative. The home screen is full of colorful cards and complicated charts. He can't find where to \"add an entry\" and feels it isn't a budget book at all. You, on the other hand, think every feature is right there, so how could he not know how to use it?\n\nThe problem may be that the budget book in his head is a list of rows: date, income, spending, balance. If you first make the entry point look like that familiar layout and introduce the charts gradually, learning gets much easier. You're not cutting features. You're building a bridge between the familiar and the new.",
+  "extra": "The first time someone eats a plant-based burger, they might say, \"It tastes good, but it's not like meat.\" That shows they're using the familiar beef burger as their reference point. Introduced as a dish in its own right, it might be met with different expectations.",
+  "steps": [
+    "Think about what concrete thing the other person will picture first when they hear the name.",
+    "Keep a few easy-to-recognize features so people can tell what it's for.",
+    "Then explain what's special about it, and check for exceptions that get unfairly hurt by the \"typical\" image."
+  ],
+  "caution": "Typical doesn't mean correct. Someone who doesn't look like your idea of a teacher, programmer, or manager isn't unqualified because of it. Appearance and style aren't the whole evidence of someone's ability or identity.",
+  "exercise": "Pick a profession you know well and write down your first impression of it. Then think of someone who doesn't fit that impression but is great at the job, and notice which features you'd mistaken for requirements.",
+  "brief": "A hub-and-spoke diagram of a prototype and graded members: a typical small bird icon sits in the center, surrounded by a sparrow, a pigeon, a penguin, an ostrich, and a bat. The bird members sit at different distances from the center, while the bat is outside the dashed category boundary. A stick figure compares their features.",
+  "diagramCaption": "The center is closer to the typical image, and the edges can be less typical; distance alone doesn't decide what belongs in the category.",
+  "sources": [
+    "Wikipedia · Prototype Theory"
+  ]
+}

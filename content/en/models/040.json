@@ -1,0 +1,18 @@
+{
+  "lead": "When you set the rules, don't know yet whether you'll end up in the best spot or the worst.",
+  "when": "When you're dividing shifts, chores, or shared resources, or discussing rewards, penalties, and usage rules, it helps to cover up the names and think it through first.",
+  "body": "Imagine everyone is splitting a cake, but before the cutting is decided, you don't know which piece you'll end up with. You'd probably be more willing to cut the pieces about the same size. The veil of ignorance borrows exactly this imagined state of not knowing where you'll stand, to help people discuss fairer rules.\n\nIn Rawls's theory of justice, the veil of ignorance requires those choosing the principles of a society to temporarily not know their social position, background, or certain personal characteristics, in order to reduce the influence of particular interests on their choice.\n\nIt doesn't ask you to forget real-world difficulties. It asks you not to plan only around the advantages you have right now. Imagine you could be the newcomer, the person caring for kids, or someone with a disability, and some rules that seemed fine may suddenly need extra safeguards.",
+  "example": "Several roommates are dividing up rooms, rent, and chores. If you've already picked the biggest room, it's easy to think \"splitting everything equally is simplest.\" Try a different question first: if the rooms were assigned at random, would I still want everyone to pay the same?\n\nThat can make it easier to talk about adjusting rent for size, light, and amenities, and to set rules for chores, shared spaces, and unexpected changes. Not everyone has to get an identical arrangement, but you can explain more clearly why the differences are fair.",
+  "extra": "When you're scheduling meetings, if you didn't know which time zone you'd be in or whether you'd need to pick up your kids, you might be more willing to limit evening meetings and offer ways to take part asynchronously. The rules can then fit more people's lives.",
+  "steps": [
+    "List the different positions the rule creates: who might find it convenient, and who might lose out.",
+    "Imagine you'll land in any position at random, and look again at whether the basic protections are enough.",
+    "Spell out in advance how adjustments, appeals, and special cases will be handled, not just how things work normally."
+  ],
+  "caution": "Fairness isn't always everyone getting exactly the same. Accessibility arrangements give extra support to some people, for example, so that they can use things too. A thought experiment offers a way to check, but it won't automatically produce an answer everyone agrees on.",
+  "exercise": "Take a rule you think is perfectly reasonable and stand on the side of the person it's least convenient for. What explanation, protection, or adjustment would you want to add?",
+  "brief": "Fair allocation behind the veil of ignorance: on the left, the identity icons of stick figures of different heights with different bags of resources are separated by a semi-transparent veil. In front of the veil, a group of stick figures with no identity markers decide together on a bridge and ramp everyone can use. The actual identities are assigned behind the veil in a shuffled lottery box.",
+  "sources": [
+    "Wikipedia · Veil of ignorance"
+  ]
+}

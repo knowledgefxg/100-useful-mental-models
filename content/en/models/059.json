@@ -1,0 +1,18 @@
+{
+  "lead": "Don't count on everything going smoothly every time; leave a backup route for the parts that matter.",
+  "when": "When you're rushing to an important trip, giving a presentation, saving important files, or organizing an event, running through this once is usually well worth it.",
+  "body": "The more pressed for time you are, the more you dread hitting traffic; right before you present, the laptop refuses to connect to the projector. Murphy's Law uses exaggeration to remind us that the steps that could go wrong are worth thinking about in advance. It's not saying bad luck is guaranteed. It's saying don't let a whole plan depend on perfect conditions to succeed.\n\nMurphy's Law is an adage drawn from experience about errors and accidents; it reminds people to take the steps that could fail seriously, rather than being a scientific law claiming every mistake will inevitably happen.\n\nUseful preparation doesn't have to be complicated. Backing up important files, leaving a little extra time when you head out, and explaining to someone else how to take over can all greatly reduce the panic when something goes wrong. Rather than imagining every possible disaster, the more useful thing to practice is asking: if something really does go wrong, how can I keep going?",
+  "example": "You're presenting slides online, and since the file is saved in the cloud, you feel safe. Before the event, ask one more question: if the internet goes down, you can't log in, or you get disconnected, can the host carry on?\n\nSo you download a local copy, send the host a PDF ahead of time, and briefly explain where it would be fine to pause. The prep may take ten extra minutes, but it turns \"one small glitch and everyone sits waiting\" into \"someone knows what to do next.\" The value of a backup plan is that it actually works when you need it.",
+  "extra": "When you travel, securely backing up your ID details and noting down key ways to get in touch doesn't mean you expect to lose things. It means that if it does happen, you won't be completely stuck.",
+  "steps": [
+    "Find the few steps that would bring everything to a halt if they failed; you don't need to treat every small thing as a disaster.",
+    "Set up a simple, independent backup or alternative for each of them.",
+    "Actually try the recovery process once, so you're not relying on a backup file you've never opened."
+  ],
+  "caution": "Adding endless safeguards also costs money and adds complexity. Plan your preparation according to how big the impact is and how hard recovery would be, and don't let guarding against accidents swallow your whole life.",
+  "exercise": "For an important plan coming up, write three lines: which step you're most worried about going wrong, how you'd spot it early, and who does what if it does go wrong.",
+  "brief": "A backup route for when things fail: the main power cord has a possible break point; a stick figure checks the weak connector first and prepares a backup battery, and both the normal path and the backup path can light the bulb.",
+  "sources": [
+    "Wikipedia · Murphy's Law"
+  ]
+}

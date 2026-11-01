@@ -1,0 +1,19 @@
+{
+  "lead": "When things pile up, use two key questions to sort them into four boxes.",
+  "when": "When you're organizing tasks, comparing needs, planning a budget, or a group can't agree on priorities, this is a great fit.",
+  "body": "When you're facing a dozen to-dos and your head is a mess, pick two important dimensions first, like \"how big is the impact?\" and \"how much effort does it take?\" Draw one line across and one line down, and you get four boxes: high impact and low cost, high impact and high cost, low impact and low cost, low impact and high cost. That's a 2x2 matrix.\n\nA 2x2 matrix is an analytical tool that uses two dimensions, each split into two levels, to form four quadrants, so options can be sorted by their characteristics and compared more easily.\n\nIts value is turning \"everything's important\" into differences you can actually discuss. You don't have to calculate everything to the decimal point. You just need to let yourself and others see why some things go first and others wait. But the two questions have to be the right ones. Otherwise, however neat the drawing, you've only packed the mess into four boxes.\n\nWhat makes the four quadrants useful is laying out both dimensions at once. First be clear about what the horizontal and vertical axes each compare, then decide where high and low split. If the dimensions are vague, no matter how neatly you draw the boxes, they won't help you judge.",
+  "example": "You want to make your home more comfortable, and your list includes changing light bulbs, fixing a leak, repainting the walls, buying decorations, and replacing a big cabinet. Sort them by \"impact\" and \"cost,\" and fixing the leak and replacing the dead bulbs probably come first, while the decorations can wait.\n\nRepainting and replacing the cabinet may have a big impact, but they take money and time, so plan them separately. Once things are sorted, you won't give up just because you can't do every upgrade at once, and the small decorations that are easiest to buy won't soak up all your energy.",
+  "extra": "You can look at a study plan the same way: do the exercises that help your goal a lot and are easy to start first, and set aside materials that take ages but don't help much. Not everything that looks like studying deserves the same effort.",
+  "steps": [
+    "First get clear on what you most want to solve right now, then pick two comparison dimensions that really matter for it.",
+    "Set a rough standard for \"high\" and \"low,\" place each item, and mark the ones you're unsure about.",
+    "Handle the few items most worth doing first, then look into any information that could change how things are sorted."
+  ],
+  "caution": "You're the one who drew the box edges. If two tasks differ only slightly, don't treat them as worlds apart just because they landed in different boxes. Important conditions like safety and deadlines may also need a separate check.",
+  "exercise": "Draw four boxes on paper and place five of this week's to-dos using \"how much does it help?\" and \"how much time does it take?\" Then pick the one most worth finishing first.",
+  "brief": "A clear four-quadrant grid: two perpendicular axes split the picture into four areas. The ends of the axes show icons for a short clock and a long clock, and for a small target and a large target. In each area, task icons of different sizes and positions are being sorted by stick figures, emphasizing that two dimensions are compared at once.",
+  "diagramCaption": "Crossing two dimensions gives each type of option its own place.",
+  "sources": [
+    "The Design Society · 2x2 Matrix Method"
+  ]
+}

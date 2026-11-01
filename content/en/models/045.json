@@ -1,0 +1,19 @@
+{
+  "lead": "To make something clear, start by answering six basic questions.",
+  "when": "When you're assigning a task, planning a get-together, reviewing what went wrong, or asking someone for help, this comes in especially handy.",
+  "body": "\"Sort out that event this weekend.\" Would you know what to do after hearing that? Who's in charge, which part to do, when it's due, where it happens, why it's being done, and how: none of it is clear. The 5 Ws and 1 H are these six questions: who, what, when, where, why, and how.\n\nThe 5 Ws and 1 H is a framework for organizing information and analyzing problems that fills in the basic elements of a situation through six types of questions: Who, What, When, Where, Why, and How.\n\nThere's nothing mysterious about it. Like checking for your keys and phone before you leave the house, it helps you avoid leaving things out. Other people don't have all the background that's in your head, and you yourself may only \"feel like\" you've thought it through. Running through the six questions often shows that what's really missing isn't effort, but one clear sentence of explanation.\n\nThe six questions work best as parallel checks on the same situation, with no fixed starting point. Think of them as six windows: if one is empty, it reminds you that you may not have made clear the people, the time, the place, the purpose, or the method.",
+  "example": "You ask a friend to \"help book somewhere for dinner.\" He picks a reasonably priced restaurant, and then it turns out someone is vegetarian, someone can't arrive until after seven, and the place has no private room. Everyone tried hard. The requirements just weren't clear at the start.\n\nNext time you could say: \"Saturday at seven, six people, near the subway station. We want to celebrate Sam's birthday, the budget is about $15 a person, and one of us is vegetarian. Could you find two places with quiet seating so we can decide together by Thursday?\" A little more detail saves a whole string of back-and-forth later.",
+  "extra": "\"My computer's broken\" is hard to help with. Make it \"After today's update, my laptop at home turns on but won't connect to Wi-Fi. My phone works fine on the same network, and I've restarted once,\" and it's much easier for someone to know what to ask next.",
+  "steps": [
+    "Write down the six questions, and fill in the information that actually affects getting the task done first.",
+    "Spell out who's responsible, the deadline, and what counts as done, instead of saying \"ASAP\" or \"roughly.\"",
+    "Flag anything you don't know and confirm it first, rather than pretending it's already arranged."
+  ],
+  "caution": "It's a checklist, not a rule that every message needs six paragraphs. Sometimes two sentences cover everything. Complex projects also need budget, dependencies, and risks, so the six questions aren't a one-size-fits-all template.",
+  "exercise": "Rewrite a vague request you sent recently. Don't make it longer yet. Just add the two pieces of information the other person was most likely to guess wrong.",
+  "brief": "A six-spoke analysis diagram: in the center, a house-and-box icon for a moving task, with six branches reaching out to a person, boxed items, a clock without numbers, a map location pin, a target for the purpose, and tools with steps.",
+  "diagramCaption": "The same situation can be checked from six angles: people, object, time, place, purpose, and method.",
+  "sources": [
+    "Wikipedia · Five Ws"
+  ]
+}

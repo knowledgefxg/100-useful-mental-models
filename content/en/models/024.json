@@ -1,0 +1,19 @@
+{
+  "lead": "An unusually good or bad result may simply be followed by a return to your usual level.",
+  "when": "When you're making sense of a sudden high score, a runaway hit, or a slump, or judging a fix you tried right after a low point, it's well worth remembering.",
+  "body": "When you suddenly ace a test, it may be partly skill and partly the luck of having reviewed exactly the right material. When you suddenly bomb one, you may also have slept badly. Next time your ability hasn't changed much, but luck may not lean the same way again, so the result is likely to be less extreme. This is called regression to the mean.\n\nWhen two measurements are imperfectly correlated, among other conditions, subjects selected because their first result was extreme tend, on average, to be less extreme on a later measurement. This is called regression to the mean.\n\nIt doesn't mean \"once your good luck runs out, bad luck is coming,\" and it isn't some invisible force dragging scores toward the middle. The key is that the performance that caught our attention usually included a dose of chance that isn't easy to repeat. When that chance factor doesn't show up again, the result naturally looks more like usual.\n\nIf you connect two results for the same group with lines, you'll often see that those who scored especially high or low the first time are less extreme later. This is an overall tendency. It doesn't mean every single person returns to the average, and it certainly doesn't mean the average is pulling people back from behind the scenes.",
+  "example": "Your child usually scores around 80 in math, but one time gets only 60. You give them a stern talking-to, they score 78 on the next test, and you conclude, \"See, scolding works.\" But even without the scolding, your child might have bounced back from getting more sleep or being more familiar with the questions.\n\nTo know whether the criticism helped, you can't just look at this one jump. You also need to watch how they study, how they feel, and how things change over a longer stretch. Otherwise it's easy to credit a natural rebound to harsh treatment, and then lean on it harder and harder.",
+  "extra": "One day a shop unexpectedly gets a big group order, and its sales multiply several times over. When sales return to normal the next day, it doesn't mean the business has suddenly gotten worse. The day before may just have had one extra factor. Looking at a longer period keeps you from being pushed around by a single day's numbers.",
+  "steps": [
+    "When you see an extremely good or bad result, first check roughly what level the previous few results were at.",
+    "Identify chance factors that may have been at play that day, such as your condition, the difficulty, or a one-off event.",
+    "When judging whether a method works, don't start at the lowest point and declare success as soon as things bounce back."
+  ],
+  "caution": "When ability truly improves or circumstances truly get worse, the usual level changes too. Regression to the mean doesn't guarantee that \"bad will automatically get better,\" and it certainly can't be used to dismiss the value of sustained effort.",
+  "exercise": "Think back to one especially good or especially bad performance. Write down the stable reasons and the chance factors of that day separately. How will you judge yourself more fairly next time?",
+  "brief": "Paired scatter points moving toward the middle after extremes: the left column shows first-round ball-throwing records that are very high or very low, the right column shows later records mostly closer to a gray band in the middle, with thin lines connecting each subject; not everything is pulled to the mean, and a few points remain extreme.",
+  "diagramCaption": "Linking two results for the same group shows the second may be less extreme than the first.",
+  "sources": [
+    "Wikipedia · Regression Toward the Mean"
+  ]
+}

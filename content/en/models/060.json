@@ -1,0 +1,19 @@
+{
+  "lead": "A reward can make a behavior happen more, and so can taking away something unpleasant.",
+  "when": "When you're building a habit, trying to understand product notifications, designing feedback for learning, or finding that \"I gave a reward and it didn't work,\" use this to break it down.",
+  "body": "\"Positive reinforcement\" and \"negative reinforcement\" are easily misheard as reward and punishment. Start with this: both increase a behavior. Positive means adding something; negative means taking something away. Whether reinforcement happened depends on whether the behavior actually shows up more often afterward, not just on your good intentions.\n\nIn operant conditioning, positive reinforcement increases the likelihood that a behavior will occur again by adding a stimulus, and negative reinforcement does so by removing a stimulus; punishment, by contrast, aims to reduce a behavior.\n\nFor example, if you get feedback you like after tidying up and then become more willing to tidy, that may be positive reinforcement. If an annoying chime stops once you buckle your seatbelt, and so you buckle up more promptly in the future, that may be negative reinforcement. Punishment works in the other direction, making a behavior less frequent, and it isn't the same thing as negative reinforcement.\n\nFor both kinds of reinforcement, follow the loop forward: after a behavior, was something you like added, or something unpleasant reduced, and is the behavior more likely next time? The difference lies in how the consequence changes the environment, not in which one sounds harsher.",
+  "example": "You want to build a habit of practicing piano every day, so after each practice you let yourself listen to a performance you love. If that consequence makes you more willing to start, it may be working as positive reinforcement. Just \"setting up a reward\" isn't enough, though; you have to see whether the habit actually increases.\n\nAnother example: a device keeps beeping until you shut the door properly. If the beeping stopping makes you more likely to close the door next time, that's negative reinforcement. The \"negative\" here doesn't mean the behavior is bad. It just describes something being taken away.",
+  "extra": "Every time a pop-up nags you to upgrade, you click \"Remind me later,\" and it disappears right away. If that relief makes clicking it more of a habit, your behavior is being steered by the consequence, even though the designers originally wanted you to upgrade.",
+  "steps": [
+    "Write down clearly the behavior you want more of, such as \"practice for ten minutes,\" not just \"be more disciplined.\"",
+    "Check what gets added or taken away after the behavior, and whether that consequence really matters to the person.",
+    "Watch how the behavior changes over a while, and keep an eye out for going through the motions, cheating, or added stress."
+  ],
+  "caution": "Not all praise works for everyone, and rewards can make people focus only on the prize. And never deliberately create discomfort to control someone, so they can only get relief by complying. Understanding the mechanism also means respecting boundaries.",
+  "exercise": "Pick a habit that keeps happening and write down \"what comes before, what the behavior is, and what you get or escape afterward.\" Don't rush to judge it as good or bad; just see the chain clearly first.",
+  "brief": "Two parallel reinforcement loops, both increasing a behavior: on top, a stick figure finishes tidying a desk, gets a small star, and is more willing to tidy next time; below, a stick figure buckles a seatbelt in a car, the harsh reminder sound waves disappear, and they are more willing to buckle up next time.",
+  "diagramCaption": "On top, a pleasant consequence is added; below, an annoyance is removed. Both can make a behavior more likely to happen again.",
+  "sources": [
+    "Operant Conditioning · OpenStax Psychology 2e"
+  ]
+}

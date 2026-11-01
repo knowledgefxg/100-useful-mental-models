@@ -1,0 +1,18 @@
+{
+  "lead": "The better you know something, the easier it is to forget that others don't know the very first step.",
+  "when": "When you're teaching family members to use a device, training a newcomer, writing instructions, or explaining your professional work, you especially need this reminder.",
+  "body": "Once you can ride a bike, it's hard to imagine why \"keeping your balance\" is so hard for a beginner. After years of using some software, you may think \"just click that button.\" This difficulty in getting back to the state of not knowing is the curse of knowledge. It often turns a well-meant explanation into a string of shortcuts the other person can't follow.\n\nThe curse of knowledge is a cognitive bias in which people who have some piece of knowledge find it hard to fully set aside what they already know, and so struggle to accurately understand the perspective of those who don't.",
+  "example": "You're teaching your parents to book a doctor's appointment online, and you say, \"Just pick the department, enter your details, and pay.\" But they're stuck on step one: which app, where to get in, why a verification code is needed, and whether they'll have to start over if they close it. To you these are small details, but they're exactly what the other person needs.\n\nTry teaching differently: go through the whole thing with them once, explaining at each step what they'll see and why to tap there, then let them try on their own. When they get stuck, it isn't \"how do you still not get it,\" it's that your explanation needs one more step added. Learning to watch where people get stuck helps more than repeating the same sentence.",
+  "extra": "Someone asks you how to get into running, and you say, \"Just control your pace,\" but they don't even know how to check their pace. Starting with alternating walking and running, picking a suitable route, and how to tell when you're overdoing it is usually far more helpful.",
+  "steps": [
+    "First ask what the other person can already do and what exactly they need to get done this time, rather than starting from the middle of what you know.",
+    "Use fewer unexplained abbreviations, and walk through the whole process with one real example.",
+    "Have the other person do it once themselves to see which step of your explanation needs more, instead of just asking \"Got it?\""
+  ],
+  "caution": "Keeping things simple isn't looking down on someone. Experienced people may simply be new to this particular field. On the other hand, you don't need to pour every detail on them at once. Cover the task at hand first, then offer more in-depth material.",
+  "exercise": "Pick a line you often say to beginners, like \"It's easy, you just...\" Circle the words in it that you haven't explained, and try rewriting it as three steps the other person could follow directly.",
+  "brief": "The information gap between expert and beginner: the stick figure on the left has a complete jigsaw puzzle in its head, the one on the right has only one piece; a big arrow trying to leap straight across is blocked by a broken bridge, while below, puzzle pieces placed one by one form a small stepped bridge so the beginner can follow.",
+  "sources": [
+    "Wikipedia · Curse of Knowledge"
+  ]
+}

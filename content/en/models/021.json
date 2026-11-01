@@ -1,0 +1,18 @@
+{
+  "lead": "Doing it once might be luck; would it still work with different people, at a different time?",
+  "when": "When you're rolling out a new approach, buying into a so-called secret to success, or about to treat one good result as a lasting ability, this model is especially worth using.",
+  "body": "The first time you follow a method, the results are fantastic, and it's easy to feel you've found the secret. But that day you may just have been in great form, the task may have been easy, or someone may have helped. Replication reminds us not to look only at one impressive result, but to see whether it shows up again under similar conditions.\n\nIn research, replication usually means testing an existing finding with newly collected data, while getting the same result again from the original data and analysis methods mainly tests the reproducibility of the analysis.\n\nIn research, having others retest with new data and recalculating from the original data both matter, but they aren't the same thing. For everyday life, it's enough to remember something simpler: keep a record of the process so a second attempt doesn't rely on just \"going by feel again.\" Look at the rounds that failed too, because they may show you where the limits are.",
+  "example": "You post a short video and it gets ten times your usual views, so you decide, \"From now on, I'll always post at 9 p.m.\" You stick with it, but the results drop back to normal. Looking back, you realize the first video happened to cover a topic everyone was talking about at the time.\n\nIf you'd kept notes on the topic, the content, and the posting time, it would be easier to untangle the causes. Posting at 9 p.m. might help, or it might have been an unimportant part of that one success. Only by trying several more rounds will you gradually find an approach that's truly reliable and suits you.",
+  "extra": "You bake a batch of delicious cookies but forget the oven temperature and baking time. Rather than just photographing the result, keeping a record that lets you make them again is what turns a lucky success into a skill you gradually master.",
+  "steps": [
+    "Briefly note what you did when it worked, who it was for, and under what conditions.",
+    "Try it again at another time or with a different group if you can, rather than always repeating it with the same small circle.",
+    "Look at successes and failures together, and find which conditions, when changed, make a clear difference to the result."
+  ],
+  "caution": "One failed repeat doesn't necessarily prove the earlier result was fake; the conditions, sample, or execution may have differed. Many successes don't guarantee it works everywhere either. The goal is to figure out the pattern and its limits, not to get a guarantee that holds forever.",
+  "exercise": "Pick a result you were really happy with and write down five key steps someone else could follow to try it. Where can you still only say \"I went by feel\"?",
+  "brief": "Side-by-side panels of independent repeat experiments: three different stick figures at three different tables run the same setup of small balls rolling down a ramp, each table with a fresh set of balls. The results at the end are plotted as similar clusters of dots that overlap in a shared area, with a few small differences left visible.",
+  "sources": [
+    "Wikipedia · Reproducibility"
+  ]
+}

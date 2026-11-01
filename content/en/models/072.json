@@ -1,0 +1,18 @@
+{
+  "lead": "If you want to know why a team has lost its spark, don't just ask whether everyone is \"satisfied.\"",
+  "when": "When team morale is low, people keep leaving, or you want to know whether the way things are managed actually helps the people doing the work, start with these questions.",
+  "body": "Gallup's Q12 is a tool for measuring employee engagement. As a beginner, it's enough to understand what it pays attention to: Do people know what's expected of them? Do they have the right resources? Is their contribution noticed? Do they have support, connection, and room to grow? These questions get much closer to what work actually feels like than \"Why aren't you more motivated?\"\n\nAccording to Gallup's description of Q12, it is an employee engagement measurement tool made up of twelve items that focus on workplace conditions linked to job performance.\n\nThis page introduces that way of looking at things. It doesn't reproduce the full proprietary survey or offer an official score. For most readers, the most useful part is breaking a vague morale problem into small things you can talk about and change, rather than measuring a number and calling it done.",
+  "example": "A small team has been delivering more slowly lately, and the manager is planning a team outing so everyone can \"get their enthusiasm back.\" But after a few conversations, it turns out people get different priorities every day, finish a task only to hear it wasn't the important one, and raise problems without ever getting a clear answer.\n\nA more effective fix might be to set the week's priorities, make clear who makes the final call, and follow up on feedback. An outing can help people relax, but on its own it can't fix confused goals. What really brings people back is often everyday work that finally makes sense and can actually move forward.",
+  "extra": "You can also use these questions to look at your own job. Instead of asking \"Am I working hard enough?\", ask \"Do I know what matters most? Do I have the tools? Does anyone give me feedback?\" Some difficulties call for asking for support, not just carrying them alone with self-blame.",
+  "steps": [
+    "Ask about specific things that happened recently around goals, tools, recognition, support, and growth.",
+    "Let people know how their feedback will be used, so they worry less that honesty will cost them.",
+    "Pick one or two things you can change and act on them, then tell everyone what changed and what's still unresolved."
+  ],
+  "caution": "Don't pressure people into giving high scores so the results look good, and don't use scores to label individuals as \"disengaged.\" Formal use of Q12 requires following Gallup's licensing and methods.",
+  "exercise": "Pick the point at work where you get stuck most often. Write down one concrete example and the kind of support you'd like. Turn \"the environment is bad\" into a request people can discuss.",
+  "brief": "A ring of twelve nodes for conditions of engagement: around a stick figure working in a team, twelve separate small icons stand for clear direction, tools and resources, using one's abilities, recognition, care, growth, being heard, purpose, quality of coworkers, a close colleague, feedback, and learning. Only generic icons are drawn, with no original Gallup survey items and no numbers.",
+  "sources": [
+    "Gallup · Q12 Employee Engagement Survey"
+  ]
+}

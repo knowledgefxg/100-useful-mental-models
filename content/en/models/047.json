@@ -1,0 +1,19 @@
+{
+  "lead": "Putting your options in one table is clearer than flip-flopping between them in your head.",
+  "when": "When you're choosing a rental, a device, a course, or a collaboration tool, or whenever each option has its own pros and cons, this works well.",
+  "body": "When buying a computer, you might be drawn to the price one moment and decide looks matter the next, until the more you look, the more confused you get. A decision matrix means first listing the criteria you care about, then running every option through the same criteria. Some criteria matter more, so you can give them more weight.\n\nA decision matrix compares candidate options against a shared set of criteria, combining the ratings with criterion weights where needed, to make each option's relative strengths and weaknesses clear.\n\nThe table doesn't decide for you. It shows you what you're trading off. One especially important point: filter out anything that fails your bottom line first. If a computer can't even run the software you need, a nice color or lots of freebies can't make up for it.\n\nIn the matrix, each column should measure every option with the same ruler. Criteria may also differ in importance: when renting, safety and commute might not be outweighed by a heap of small perks. Scoring organizes your judgment. It doesn't turn a subjective choice into an absolutely objective answer.",
+  "example": "You're torn between three rentals. First write down your hard requirements: a maximum budget, an acceptable commute, and basic natural light. Rule out the ones that clearly don't fit, then compare how quiet they are, storage, everyday convenience, and how easy the landlord is to deal with.\n\nYou really loved the decor in one of them, but after filling in the table you realize the extra commute every day would eat up a lot of your rest time. You might still choose it because you love it. You just know now exactly what that love costs. Choosing with clear eyes feels better than discovering the price afterward.",
+  "extra": "One job may pay more while the other offers more growth. List the commute, the work itself, stability, and how each fits your life side by side, and you'll know better why you're choosing, instead of being swayed by whichever perk you heard about most recently.",
+  "steps": [
+    "List your non-negotiable requirements first. If an option doesn't meet them, don't let its other strengths earn it points.",
+    "Pick three to five main criteria and note which one matters most to you. Don't list too many.",
+    "Score the options or write their pros and cons, then shift the weights around to see whether the result flips easily."
+  ],
+  "caution": "The numbers come from your own judgment. Multiplying them by weights doesn't make them objective truth. If two options are close, don't put blind faith in the total. Go back to the most important differences, then look for more information or try them out.",
+  "exercise": "Draw a small three-column table for a real choice: criteria, option A, option B. Write the one thing you're least willing to compromise on first, then fill in the rest.",
+  "brief": "A matrix comparing options on shared criteria: three differently shaped candidate objects on the left, and three columns of icon-only criteria across the top: a clock, a coin, and a shield. The nine cells use a few solid dots to show how each option performs, and a stick figure points to the one that best fits the goal according to the criteria.",
+  "diagramCaption": "Every candidate option is compared against the same set of criteria.",
+  "sources": [
+    "Wikipedia · Decision Matrix"
+  ]
+}

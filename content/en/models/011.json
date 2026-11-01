@@ -1,0 +1,18 @@
+{
+  "lead": "If a claim can never be proven wrong, it's hard to know whether it's actually reliable.",
+  "when": "When you notice a method that's \"right no matter what happens,\" or you really don't want to admit your plan isn't working, remember this.",
+  "body": "Someone says a stone brings good luck: when things go well, the stone is working; when things go badly, the stone shielded you from something worse. Notice that whatever happens, it's never \"wrong.\" The principle of falsification reminds us that to seriously test a claim about reality, you first have to say what outcome would make you reconsider it.\n\nIn Karl Popper's philosophy of science, falsifiability means a theory must be incompatible with some possible empirical observations; in other words, there must be possible test results that could refute it.\n\n\"Falsification\" sounds like looking for trouble, but it's really giving an idea a doorway to be tested. You can love your plan and still be willing to say, \"If this doesn't improve things, I'll admit it might not be right for me.\" That's how you get a chance to actually learn something.",
+  "example": "You're convinced that \"making a plan before bed helps me procrastinate less the next day,\" so you pick a way to check it in advance: for the next two weeks, record how many of each day's three most important tasks you finish, and also note whether it's making you go to bed later.\n\nIf things don't improve, you don't quietly change the standard to \"at least I look more disciplined.\" Instead, you check whether the plan has too much in it, whether the tasks are too big, or whether the method just doesn't help you much. One small trial can't settle everything, but it does leave you fewer excuses.",
+  "extra": "You say \"If you work hard, you'll definitely succeed,\" and whenever someone fails, it's explained away as \"they didn't work hard enough.\" If \"hard enough\" has no clear standard, the claim is hard to test, and it can easily leave people who've hit setbacks carrying all the blame.",
+  "steps": [
+    "Write your idea as one specific prediction, not just \"it'll be better.\"",
+    "Write down in advance which results would lower your confidence or make you willing to try something else.",
+    "When the results come in, check them against your original standard first, and don't change what \"success\" means on the spot."
+  ],
+  "caution": "A single failure might mean the method was carried out poorly, or that the original guess was wrong, so check those separately. Questions of feelings, taste, and morality can't all be settled by one experiment either, so don't force it.",
+  "exercise": "Add one sentence to a method you really like: \"If ... happens, I'll reconsider.\" Then see whether you're truly willing to accept that outcome.",
+  "brief": "A testable counterexample: on the left, many white swans support a simple thought bubble saying swans are white; on the right, one clear black swan breaks through the border of that generalization along a bold navy arrow, while an observer checks the black swan with a magnifying glass.",
+  "sources": [
+    "Karl Popper · Stanford Encyclopedia of Philosophy"
+  ]
+}

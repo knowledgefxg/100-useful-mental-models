@@ -1,0 +1,19 @@
+{
+  "lead": "For some things, most cases bunch up in the middle, and very high or very low ones are rare.",
+  "when": "When you're looking at average scores, measurement errors, or how much something varies, it helps you see roughly where a single number falls.",
+  "body": "If you chart the heights of a large group of adults by how many people have each height, then within a suitable population you'll often see something shaped like a bell: common in the middle, rarer and rarer toward both sides. That's the shape the normal distribution describes. \"Normal\" doesn't mean anyone is normal or abnormal. It's just a statistical name.\n\nThe normal distribution is a continuous, symmetric probability distribution determined by its mean and standard deviation. Its density curve is bell-shaped, with the mean at the center.\n\nTo understand it, start with two questions: roughly what number do values hover around, and how widely are they spread out? The first is usually described with the average. The second can be measured with a ruler called the \"standard deviation.\" The more spread out the values, the larger the standard deviation tends to be. Understanding the shape of the chart is more useful than rushing to memorize formulas.\n\nIn a bell curve, the high middle means values cluster around that area, and the low ends mean values in those ranges are less common. To compare how often things happen, look at the area under a stretch of the curve. Don't read the height of the curve at one point as the probability of that exact value.",
+  "example": "Suppose a batch of measurement errors roughly follows a normal distribution centered at 0 with a standard deviation of 1. Then about 68% of the errors will fall between -1 and +1, and about 95% between -2 and +2. These proportions depend on the assumption that the data really is close to normal. You can't apply them to just any set of numbers.\n\nNow switch to household income. A few very high figures can pull the average way up, and the shape is no longer symmetric. If you still read it like a bell curve, you can easily misjudge where an \"ordinary\" person actually stands.",
+  "extra": "You hear that a class averaged 80 on a test, but you still don't know whether everyone scored close to 80. Most might be between 75 and 85, or half might have scored 60 and half 100. The average alone doesn't show you the distribution.",
+  "steps": [
+    "First draw the numbers as a simple grouped bar chart and see whether it's high in the middle, low on both sides, and roughly symmetric.",
+    "If it looks like a fit, use the average to describe the center and the standard deviation to describe the spread.",
+    "When the data is heavily skewed, has several peaks, or has a few extremely large values, don't force a bell curve onto it."
+  ],
+  "caution": "Not all test scores, incomes, and view counts follow a normal distribution. And people who land in the rare zones aren't a problem. A distribution describes what a group looks like, not how much any individual is worth.",
+  "exercise": "Take a set of numbers you know well, such as your commute time each day for a week. First check for any unusually high values, then ask yourself: if I reported only the average, would I be leaving out something important?",
+  "brief": "A bell-shaped distribution: many small bars of even width line the bottom, tallest in the middle and short at both ends, with a smooth symmetric bell curve over them; many stick figures stand in the middle and fewer at the sides, with a thin vertical line at the center and no labels of better or worse on either side.",
+  "diagramCaption": "Values are more concentrated near the middle and less common near the ends. This is one shape a distribution can take.",
+  "sources": [
+    "Wikipedia · Normal Distribution"
+  ]
+}

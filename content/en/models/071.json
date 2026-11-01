@@ -1,0 +1,19 @@
+{
+  "lead": "Early adopters showing up first doesn't mean everyone else will follow for the same reasons.",
+  "when": "When you're promoting a tool, organizing a new activity, introducing a workflow, or something gets good early reviews but never catches on, it's well worth using.",
+  "body": "When something new comes out, some people want to try it right away, some wait until friends have used it, and some won't switch until the old one breaks. The diffusion of innovations curve groups people by when they adopt, helping us see that people at different stages often have different worries and expectations.\n\nRogers's diffusion of innovations theory groups adopters by relative time of adoption into innovators, early adopters, early majority, late majority, and laggards, as a way to understand how innovations spread through a social system.\n\nThe percentages often shown on the chart, like 2.5% and 13.5%, are best treated as segments in a model, not numbers every industry must match. What matters more in daily life is that early users willing to put up with hassle and later users who need something stable and easy can't be approached with the same pitch.\n\nCharts like this often show two curves. One shows how many new people join at each stage, which may start low, rise, and then fall. The other shows how many have adopted in total so far, which usually only keeps adding up. The two curves answer different questions, so don't read a falling number of new adopters as all the existing users leaving.",
+  "example": "You recommend a new budgeting app to your family. You love that it categorizes spending automatically and makes charts. But your parents are worried about losing their account, who to contact if something goes wrong, and how to keep their old records. You keep showing off the new features, and they still don't want to switch.\n\nHelping them with moving their data, account recovery, and the basic steps may work better than showing off more advanced charts. Adopting later doesn't mean being stubborn; their costs, the information they need, and their situation differ from yours. The job of spreading something is to lower real obstacles, not to blame others for not being forward-thinking enough.",
+  "extra": "A neighborhood starts taking online bookings for its facilities. People comfortable with smartphones adapt quickly, but others may need in-person help and a simple way in. Offering a transition option does more to expand real use than writing the problem off as \"they don't want to learn.\"",
+  "steps": [
+    "First learn why the people who are willing to try it now actually came, and what they're willing to put up with.",
+    "Then ask what the next group worries about most, instead of only talking to people who already like it.",
+    "Add stability, examples, migration help, and support so adopting makes sense, rather than just turning up the promotion."
+  ],
+  "caution": "The same person may jump on new phones but be very cautious about financial tools. These categories aren't permanent personality types, and adopting late can be a good decision that fits someone's needs.",
+  "exercise": "Pick a tool you'd love to recommend and write down three things, besides \"it has great features,\" that others might worry about. Which of them do you already have a way to help with?",
+  "brief": "The timing structure of innovation adoption: a smooth bell-shaped band runs left to right. At the front, a few stick figures try a new tool; in the middle, the majority follow; at the back, a few join later, with communication lines spreading through the group.",
+  "diagramCaption": "The top chart shows how many new people join at each stage; the bottom chart shows how many have joined in total up to that point.",
+  "sources": [
+    "Wikipedia · Diffusion of Innovations"
+  ]
+}

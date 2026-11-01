@@ -1,0 +1,18 @@
+{
+  "lead": "Tidying up only lasts a while; to keep things working, someone has to keep looking after them.",
+  "when": "When you're organizing files, maintaining a knowledge base, keeping order at home, or estimating the cost of a long-term project, this model is a good fit.",
+  "body": "A drawer you just cleaned out looks neat, and a few weeks later it's stuffed with clutter again. A computer folder you just sorted soon fills up with \"final,\" \"final 2,\" and \"really final.\" Borrowing the idea of entropy, the most useful everyday reminder is this: a lot of order needs maintenance. You can't set it up once and walk away.\n\nThe second law of thermodynamics states that the total entropy of an isolated system does not spontaneously decrease; entropy is a physical state quantity and can't simply be equated with what we call messiness in everyday life.\n\nTo be clear, entropy in physics has a strict meaning, and the second law isn't just a slogan that \"everything gets messier.\" What we're doing here is drawing an analogy: new things keep coming in, old things never get cleared out, the rules for using the system are unclear, and so the system naturally becomes harder to use. Once you know the causes, you can plan for upkeep.",
+  "example": "You spend a weekend sorting your photos by year and feel you've finally solved the problem. Three months later, new photos are scattered across your phone, your chat history, and your downloads folder, and finding the pictures from one trip takes ages again.\n\nInstead of letting a huge pile build up and reorganizing everything each time, set a few rules: back up once a month on a fixed day, send new photos to a single place first, and delete duplicates as you go. What you're reducing isn't some \"destiny of chaos,\" but the buildup that comes from nobody looking after things or nobody having time to.",
+  "extra": "If a contact list never gets updated, phone numbers go out of date and people's roles change. It may have been complete when it was created, but that doesn't guarantee it'll still be reliable two years later. Part of a resource's value comes from its content, and part comes from someone keeping it up to date.",
+  "steps": [
+    "Pick a place that keeps getting messy again, and look at where new things come in.",
+    "Set up a simple way to put things back and throw things out, so tidying takes only a tiny bit of extra effort.",
+    "Schedule a small, regular maintenance slot instead of leaving everything for a big cleanup."
+  ],
+  "caution": "Don't use \"entropy always increases\" to scare yourself into thinking everything is bound to collapse beyond repair. Homes, teams, and software can all become more orderly through ongoing effort. You just need to treat maintenance as real work.",
+  "exercise": "Find a place that keeps falling into disorder, design a maintenance action you can finish in five minutes, and give it a specific time.",
+  "brief": "A physics diagram of heat evening out in an isolated system: two large sealed boxes are compared before and after. In the left box, a warm red cup and a cold gray block have a temperature difference, with small dots of heat moving from hot to cold. In the right box, both are close to the same temperature and the heat is evenly spread.",
+  "sources": [
+    "Wikipedia · Entropy and the Second Law of Thermodynamics"
+  ]
+}

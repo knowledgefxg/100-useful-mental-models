@@ -1,0 +1,18 @@
+{
+  "lead": "Check the simple, common explanation first before you spin a big story.",
+  "when": "When you hit a small glitch or a misunderstanding, or something starts to feel more and more like a conspiracy, this model helps you steady yourself first.",
+  "body": "If your phone suddenly goes silent, you check whether it's on mute before you suspect a broken chip or a hacked system. In everyday terms, Occam's razor means that when several explanations all make sense, you consider first the one that doesn't need a lot of extra assumptions. That's usually less work, and it's easier to check.\n\nOccam's razor is a principle of parsimony: when explanations account for the evidence equally well, prefer the one that introduces fewer additional assumptions.\n\nBut \"simple\" doesn't mean \"careless.\" The rule doesn't guarantee that the simplest explanation is right. If you've checked mute, the volume, and the headphone connection and everything's fine, of course you keep digging. It helps you decide what to check first. It isn't a reason to reject a reality that really is complicated.",
+  "example": "You sent a friend a message and haven't heard back all day, and a whole plot quickly forms in your head: are they upset with me? Did I say something wrong last time? Did someone stir up trouble? For that explanation to hold, you'd have to be right about a lot of unconfirmed things at once.\n\nStart with a few causes that are easy to check: they're busy, they haven't seen it, or they don't realize it needs a reply. Add a quick note like \"I need to confirm by Friday, so just let me know when you get a chance,\" and you'll often get new information. If there's a clear, ongoing problem, have a real conversation then, rather than letting guesses torment you all day.",
+  "extra": "If a houseplant's leaves are turning yellow, check the watering, the light, the soil, and the change of season before considering rare diseases. It's not that plants never get sick. Checking the most common causes first just makes it easier to find your way.",
+  "steps": [
+    "Write down what you're actually seeing, and hold off on adding motives or a storyline.",
+    "Check the common causes first: the ones that need fewer conditions and are easy to verify.",
+    "If they don't pan out, keep investigating, and don't ignore new clues just to stick with \"simple.\""
+  ],
+  "caution": "\"It's too complicated for my taste, so it must be wrong\" is not this principle. And don't just pick whichever explanation sounds nicest to you. Evidence matters more than how long the story is.",
+  "exercise": "Pick something you've been thinking about a lot lately but haven't checked. Write down one explanation that doesn't require imagining so many details, then note how you could check it.",
+  "brief": "A parsimony comparison between equally good explanations: the same unlit desk lamp is shown with a short chain of reasoning leading to a loose plug, and a long, winding chain running through many unsupported gears and tangled lines. Both sides point to the same observation.",
+  "sources": [
+    "Wikipedia · Occam's Razor"
+  ]
+}

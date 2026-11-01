@@ -1,0 +1,19 @@
+{
+  "lead": "When you choose something, also look at what you're giving up for it.",
+  "when": "When you think \"it's free anyway\" or \"it's just a bit more time,\" or you want several things but can't fit them all in, use it to compare.",
+  "body": "You spend two hours scrolling videos without paying a cent. Does that really cost nothing? Those two hours could have gone to sleep, exercise, or dinner with friends. Opportunity cost reminds us that a choice isn't only about what you pay out; it's also about where else the same time and resources could have gone.\n\nIn economics, opportunity cost is the value of the best feasible alternative you give up to get the benefits of a particular choice. It can include money, as well as time, rest, or anything else you value.\n\nThe easiest mistake here is to add up the benefits of everything you didn't choose. Skipping a movie, a run, and a book doesn't mean one session of scrolling cost you all three; you could never have fit them all into those two hours anyway. What's worth comparing is the one alternative you'd most likely, and most willingly, have chosen instead.\n\nImagine the same stretch of time can only take one fork in the road: choose studying and you may give up rest; choose rest and you may give up this round of studying. Opportunity cost looks at the most worthwhile of the options you didn't pick, not the sum of every road not taken.",
+  "example": "You have three free hours on a weekend afternoon. You could take a side gig that pays $45, or spend time with a friend who's rarely back in town. The gig's payoff is easy to calculate, but it also means that time for seeing your friend is used up. Seeing your friend isn't just a \"free chat\" either; you're also giving up the money you could have earned.\n\nThere's no answer that works for everyone. If you urgently need the income, taking the gig may make more sense; if this meetup will be hard to arrange again, seeing your friend has good reasons too. Laying out the option you're giving up is about choosing with clear eyes, not about converting every relationship and every rest into an hourly wage.",
+  "extra": "A store's sale saves you $3, but the round trip takes an extra hour. If the trip wears you out and makes you miss something you wanted to attend, cheaper isn't necessarily better; if you wanted a walk anyway and can browse along the way, the trip might be worth it. What matters is what else that time would actually do for you.",
+  "steps": [
+    "First identify what's really limited: time, budget, energy, or an opportunity you only get once?",
+    "Find the most valuable alternative that's actually feasible if you don't make this choice, without adding up every imagined benefit.",
+    "Compare the benefits and costs you care about most on each side, then commit to your choice and don't keep dwelling on every road not taken."
+  ],
+  "caution": "Rest and fun have value too; you don't need to spend every minute making money. Options that aren't feasible don't count as real alternatives. Also keep three things separate so you don't count anything twice: the direct cost of spending money, the sunk cost of money already spent, and the opportunity cost of giving up other uses.",
+  "exercise": "Pick something you plan to spend two hours on this week. Write down what you'd most likely do instead if you skipped it, and what each would give you. Don't list ten ideal options; compare just one real, feasible alternative.",
+  "brief": "The same stretch of time splits into two possibilities, studying and resting, with a solid path running beside a dashed path not taken.",
+  "diagramCaption": "The same stretch of time leads to different choices; the dashed path holds the value of the option not chosen.",
+  "sources": [
+    "OpenStax · Opportunity Cost and Individual Choices"
+  ]
+}

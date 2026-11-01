@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+<title id="title">A/B 测试：插图占位</title><desc id="desc">两张只改标题的活动海报标为 A 和 B，随机分成的两组看到不同版本，最后比较报名人数与看到海报的人数。</desc>
+<rect width="1200" height="600" rx="20" fill="#f2eee5"/>
+<rect x="28" y="28" width="1144" height="544" rx="12" fill="none" stroke="#d0c8ba" stroke-dasharray="8 8"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle" fill="#827b70">
+<text x="600" y="240" font-size="20" letter-spacing="5">MODEL 025</text>
+<text x="600" y="310" font-size="32">插图待补</text>
+<text x="600" y="360" font-size="20">A/B 测试</text></g></svg>

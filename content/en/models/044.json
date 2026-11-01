@@ -1,0 +1,19 @@
+{
+  "lead": "Find out how much is already enough before you automatically keep adding more.",
+  "when": "When your plans are always too heavy, when you won't start because you can't do the full version, or when you suspect you're putting in more than you need to, this is well worth using.",
+  "body": "With practice, meetings, or organizing files, adding a little sometimes makes things noticeably better, but adding more after that barely helps. The minimum effective dose asks: for the goal in front of me, what's the least I can do that will still work? This is about effort in work and daily life, not about adjusting medication doses on your own.\n\nIn the context of everyday productivity, the minimum effective dose is the smallest amount of input needed to produce the intended effect. It depends on a goal, subject, and measure that are clearly defined in advance.\n\nIt's good for lightening a starting plan that's too heavy. Maybe you meant to read for an hour a day and gave up completely once things got busy. Switch to a sustainable ten minutes, and you actually get started. Still, be clear about the goal first: ten minutes may be enough to build a habit, but not enough to prepare for an exam a month away.\n\nWhen you look at effort and effect together, you'll see that \"the point where you just reach the goal\" deserves more attention than \"the more effort, the better.\" First decide what result counts as enough, then find the range of effort that reliably gets you there. If the goal or conditions change, look at that range again.",
+  "example": "Your team holds a half-hour sync meeting every day, but most of it is people taking turns reading out their progress. First make the goal clear, \"make blockers visible,\" then try having people write updates before the meeting and only discussing things that need someone else's help. The meeting shrinks to ten minutes.\n\nAfter two weeks, check: did any problems slip through? Did collaboration slow down? If nothing important was lost, there's no need to add back twenty minutes just to seem thorough. If something important really was missed, add back what's needed. Cutting back is something you test, not something you slash by gut feeling.",
+  "extra": "A note to a friend doesn't have to be long. One line that shows you remember what they're going through and says something specific and heartfelt can mean more than a page of clichés. The goal is for them to feel remembered, not to hit a word count.",
+  "steps": [
+    "Write the goal as a result you can check, not just \"do better.\"",
+    "Start with a small input that's easy to keep up, and give it some time to observe.",
+    "If it's not enough, fill the specific gap. If it is enough, stop there for now, and don't treat doing more as automatically being responsible."
+  ],
+  "caution": "\"The least\" isn't the only goal. Long-term training, reliability, and handling surprises may all need some margin, and not every task can be squeezed down endlessly. The right amount matters more than chasing the minimum.",
+  "exercise": "Pick a habit you always feel you \"don't have time for\" and design a five-to-ten-minute starter version. Write down what it can achieve and what it can't yet.",
+  "brief": "An effect threshold and minimal input: a stick figure gradually adds batteries to a flashlight. A small but sufficient beam just lights the page that needs reading, with a clear line marking the target level of light. Piling on many more batteries only adds to the load without changing the goal of reading that page clearly.",
+  "diagramCaption": "First decide what goal counts as enough, then look for the range of effort that reaches it.",
+  "sources": [
+    "Tim Ferriss · Excerpt on the Minimum Effective Dose from The 4-Hour Body"
+  ]
+}

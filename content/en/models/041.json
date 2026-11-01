@@ -1,0 +1,19 @@
+{
+  "lead": "When you come across great work, don't just say \"impressive.\" Try to see how it was made.",
+  "when": "When you want to learn writing, design, a process, or a product but don't know where to start, this method works well.",
+  "body": "A clearly written report, a moving video, a small shop that runs smoothly: all of them can be taken apart. Reverse engineering means looking backward from something already finished. What parts is it made of, what order do they go in, and what makes it work?\n\nReverse engineering is the process of analyzing an existing product or system to identify its components, their relationships, and how it works, in order to gain knowledge of its design or implementation.\n\nThe benefit is that vague admiration turns into details you can learn from. You don't have to copy everything someone else did. You can break down the structure first, then try it once with your own material. It's often only when you try to rebuild it that you discover what you really understood and what you guessed wrong.\n\nYou can trace reverse engineering back along \"finished product, parts, connections, operation.\" The point isn't just how many parts you can pull out, but also how one part affects the next. Only by knowing these relationships do you gradually understand why it works.",
+  "example": "You love an article that explains something complex without being dull. Instead of just saving it, you go through it paragraph by paragraph to see how it's written: it opens with an everyday question, breaks the concept into three points in the middle, pairs each point with an example, and ends with an action you can take right away.\n\nThen you pick your own topic and write a section following that structure. When you're done, you ask a friend to read it and see if it's clearer. What you've learned is a way of organizing information, not swapping out a few words and passing off someone else's article as your own.",
+  "extra": "With a delicious dish, you can analyze the texture, aroma, and order of preparation, then try making it at home. It's no loss if the first attempt fails, because by comparing the differences, you start to learn which steps really matter.",
+  "steps": [
+    "Pick a finished piece whose goal is close to yours, rather than starting with something that had far more resources behind it.",
+    "Break out the main parts, their order, and the role each part plays.",
+    "Rebuild a small section with your own material, and test your guesses against the actual result."
+  ],
+  "caution": "A finished product won't tell you how many times it failed or how many resources went into it. Looking simple doesn't mean it was cheap to make. Learning also means respecting the original creator's work and its usage limits. Don't use taking something apart as an excuse to copy it.",
+  "exercise": "Pick something you saved recently but never looked at again. Write down its three parts and what each does, then rebuild the smallest part with your own content.",
+  "brief": "Tracing a finished product back to how it works: on the right, a complete small mechanical alarm clock. To its left, a layer-by-layer exploded view reveals gears, a spring, and arrows showing how motion is passed along. A stick figure uses a magnifying glass to follow how the gears connect, then sketches a simple wordless diagram of the mechanism.",
+  "diagramCaption": "Looking back from the finished product to its parts, connections, and how it runs.",
+  "sources": [
+    "Wikipedia · Reverse engineering"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lead": "Keep pushing on the same thing, and each extra bit of effort may bring back less and less.",
+  "when": "When you keep revising, studying leaves you more and more drained, adding people isn't speeding things up, or you're unsure whether to keep investing, it's well worth using.",
+  "body": "When you tidy a room, the first twenty minutes of putting things away make an obvious difference. The next hour spent rearranging a few knickknacks doesn't improve much. Diminishing returns reminds us to look at the value of \"doing a bit more,\" not just \"how much I've already done.\" Things aren't necessarily getting worse; each additional unit of effort just brings less extra benefit.\n\nThe law of diminishing marginal returns states that, with technology and some inputs held fixed, continuing to add more of one input will eventually yield smaller and smaller increases in output.\n\nIn economics this idea comes with specific conditions, such as other resources staying the same for now. Brought into daily life, one question is already very useful: is what's really holding back the result still a lack of effort, or have time, space, method, or feedback become the limit? Pick the wrong limit and you'll just wear yourself out adding more.\n\nIt helps to separate \"how much you get in total\" from \"how much this extra unit of input adds.\" The total harvest may still grow, but the extra harvest from each additional bucket of water is getting smaller. Diminishing refers to the added part, not to the total necessarily starting to fall.",
+  "example": "You're preparing a ten-minute talk. The first two hours, spent making the structure and examples clear, improve it enormously. The next three hours go to swapping fonts and tweaking single sentences, and then when you present, you discover the audience didn't understand a concept in the middle at all.\n\nBy now, polishing the look adds very little. Spending ten minutes having a newcomer listen to a run-through might help more. It's not that details never matter; it's that the most valuable place to invest has shifted, and you need to shift with it instead of piling more effort into the same spot just because you've already spent so long on it.",
+  "extra": "With only one pot in the kitchen, two people cooking may be faster, but five people crowded around the stove at once tend to get in each other's way. The problem isn't necessarily that anyone isn't trying hard; the fixed space has limited what extra hands can do.",
+  "steps": [
+    "After each stretch of work, ask what specifically just improved.",
+    "Find the part that's most limiting the result right now, and see whether you need a different method or more resources.",
+    "Compare continuing with this small step against resting, asking for feedback, or starting something else, and see which is more worthwhile."
+  ],
+  "caution": "Smaller gains don't mean the total gain is negative, and they don't mean \"effort is pointless.\" Some long-term skills need steady accumulation and don't show much in the short term. Judge with your goal and time frame in mind.",
+  "exercise": "Pick a task you've been working on for a long time and write down the most likely improvement the next half hour would bring. If you can't say, should you invest differently?",
+  "brief": "Added output shrinking under fixed conditions: a fixed-size vegetable plot under the same unchanging sun; a stick figure keeps adding same-sized buckets of water, each new harvest basket is smaller than the last, but the total harvest still grows.",
+  "diagramCaption": "Above, each added unit of input is the same; below, the matching added harvest gets smaller each time. That doesn't mean the total harvest is falling.",
+  "sources": [
+    "Wikipedia · Law of Diminishing Returns"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "认知与推理": { "name": "Thinking & Reasoning", "description": "Check how we make sense of the world, form judgments, and handle disagreement." },
+  "证据与统计": { "name": "Evidence & Statistics", "description": "Tell anecdotes, correlation, and causation apart, and ground judgments in evidence you can test." },
+  "选择与决策": { "name": "Choices & Decisions", "description": "Compare options and their costs when information is incomplete and resources are limited." },
+  "沟通与影响": { "name": "Communication & Influence", "description": "Say what you mean clearly, and understand how messages shape other people." },
+  "伦理与协作": { "name": "Ethics & Cooperation", "description": "Think about respect, fairness, and trust within relationships and institutions." },
+  "工具与行动": { "name": "Tools & Action", "description": "Turn vague problems into actions you can move forward, test, and review." },
+  "系统与规律": { "name": "Systems & Patterns", "description": "See interactions, feedback, thresholds, and the limits that come with change." },
+  "行为与成长": { "name": "Behavior & Growth", "description": "Understand motivation, memory, ability, and individual differences to learn and work better." }
+}
