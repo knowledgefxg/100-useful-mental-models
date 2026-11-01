@@ -2,6 +2,8 @@
 
 React + Vite 静态阅读站点：100 篇模型说明、100 张主图、68 张正文结构图，米白底与藏蓝配色。中英文对照、预渲染 HTML、站内搜索、阅读进度均已就绪，可直接构建部署。
 
+仓库：<https://github.com/knowledgefxg/100-useful-mental-models>
+
 ## 环境要求
 
 - **Node.js** 22.12+（推荐 24 LTS）
@@ -10,7 +12,7 @@ React + Vite 静态阅读站点：100 篇模型说明、100 张主图、68 张�
 ## 本地开发
 
 ```sh
-git clone <仓库地址>
+git clone https://github.com/knowledgefxg/100-useful-mental-models.git
 cd 100-useful-mental-models
 npm install
 npm run dev
